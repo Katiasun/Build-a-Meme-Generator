@@ -1,16 +1,17 @@
 import React from "react";
 import './App.css';
 import '@fontsource/roboto';
-import Header from "./Header";
-import Meme from "./Meme";
+import Header from "./components/Header";
+import Meme from "./components/Meme";
 
 function App() {
   return (
     <div className="App">
-    <Header/>
-    <Meme/>
+      <Header/>
+      <Meme/>
     </div>
   );
 }
 
 export default App;
+
