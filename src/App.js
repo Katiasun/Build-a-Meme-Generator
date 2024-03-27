@@ -1,6 +1,5 @@
 import React from "react";
-import './App.css';
-import '@fontsource/roboto';
+import "./index.css";
 import Header from "./components/Header";
 import Meme from "./components/Meme";
 
