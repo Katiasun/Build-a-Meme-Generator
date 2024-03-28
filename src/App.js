@@ -6,11 +6,10 @@ import Meme from "./components/Meme";
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Meme/>
+      <Header />
+      <Meme />
     </div>
   );
 }
 
 export default App;
-
