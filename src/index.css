@@ -54,7 +54,7 @@ main {
 .meme-container {
   display: flex;
   justify-content: center;
-  align-items: center;
+
 }
 .meme-image {
   max-width: 100%;
