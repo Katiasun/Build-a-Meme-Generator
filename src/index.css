@@ -36,7 +36,7 @@ main {
   gap: 17px;
 }
 .form-input {
-  border-radius: 5px;
+  border-radius: 7px;
   border: 1px solid #d5d4d8;
   text-indent: 5px;
   font-family: "Karla", sans-serif;
